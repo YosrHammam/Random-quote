@@ -1,0 +1,21 @@
+div{
+    margin-top:35px;
+    margin-bottom:35px;
+}
+h1{
+    font-size:80PX ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p , #displayDiv {
+    font-size: 35px;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color:green;
+}
+
